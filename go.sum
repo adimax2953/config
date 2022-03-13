@@ -1,0 +1,10 @@
+github.com/adimax2953/structproto v0.0.0-20220313070904-34283aa77678 h1:OzUrDqc59//yxjySabmJ8p/LoUhmVo0pjt/PFsOnG2E=
+github.com/adimax2953/structproto v0.0.0-20220313070904-34283aa77678/go.mod h1:VEnNni6Wwy+cPNjnKBvmNR2S8pDvoA34TcUXwRkpYFY=
+github.com/adimax2953/types v0.0.0-20220313064011-24a082f9e67c h1:x9QzWw/E9YCANzpLb5JU+CbWtdq79xeB2Pwm8HA9zYU=
+github.com/adimax2953/types v0.0.0-20220313064011-24a082f9e67c/go.mod h1:DjE4x3AVZ1PbQo+UlpOCNE3Em3SVND3i5LjD6lb3sUc=
+github.com/cstockton/go-conv v1.0.0 h1:zj/q/0MpQ/97XfiC9glWiohO8lhgR4TTnHYZifLTv6I=
+github.com/cstockton/go-conv v1.0.0/go.mod h1:HuiHkkRgOA0IoBNPC7ysG7kNpjDYlgM7Kj62yQPxjy4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
